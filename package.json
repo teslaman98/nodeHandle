@@ -1,0 +1,24 @@
+{
+  "name": "nodeHandle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teslaman98/nodeHandle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teslaman98/nodeHandle/issues"
+  },
+  "homepage": "https://github.com/teslaman98/nodeHandle#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6"
+  }
+}
